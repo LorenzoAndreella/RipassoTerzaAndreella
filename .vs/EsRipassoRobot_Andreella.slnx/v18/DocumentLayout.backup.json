@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRipassoRobot_Andreella\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6B0ED4-2A6E-532A-0C69-B982602635BA}|EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esripassorobot_andreella\\esripassorobot_andreella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6B0ED4-2A6E-532A-0C69-B982602635BA}|EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella.csproj|solutionrelative:esripassorobot_andreella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6B0ED4-2A6E-532A-0C69-B982602635BA}|EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esripassorobot_andreella\\esripassorobot_andreella\\crobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6B0ED4-2A6E-532A-0C69-B982602635BA}|EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella.csproj|solutionrelative:esripassorobot_andreella\\crobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRobot.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella\\CRobot.cs",
+              "RelativeDocumentMoniker": "EsRipassoRobot_Andreella\\CRobot.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella\\CRobot.cs",
+              "RelativeToolTip": "EsRipassoRobot_Andreella\\CRobot.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:00:22.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella\\Program.cs",
+              "RelativeDocumentMoniker": "EsRipassoRobot_Andreella\\Program.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRipassoRobot_Andreella\\EsRipassoRobot_Andreella\\Program.cs",
+              "RelativeToolTip": "EsRipassoRobot_Andreella\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:00:00.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

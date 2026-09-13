@@ -1,0 +1,14 @@
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\bin\Debug\net10.0\EsRipassoRobot_Andreella.exe
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\bin\Debug\net10.0\EsRipassoRobot_Andreella.deps.json
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\bin\Debug\net10.0\EsRipassoRobot_Andreella.runtimeconfig.json
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\bin\Debug\net10.0\EsRipassoRobot_Andreella.dll
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\bin\Debug\net10.0\EsRipassoRobot_Andreella.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\EsRipassoRobot_Andreella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\EsRipassoRobot_Andreella.AssemblyInfoInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\EsRipassoRobot_Andreella.AssemblyInfo.cs
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\EsRipassoRobot_Andreella.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\EsRipassoRobot_Andreella.dll
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\refint\EsRipassoRobot_Andreella.dll
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\EsRipassoRobot_Andreella.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\EsRipassoRobot_Andreella.genruntimeconfig.cache
+C:\Users\lorenzo\Desktop\c sharp\EsRipassoRobot_Andreella\EsRipassoRobot_Andreella\obj\Debug\net10.0\ref\EsRipassoRobot_Andreella.dll
