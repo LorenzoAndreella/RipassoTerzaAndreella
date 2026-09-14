@@ -118,7 +118,8 @@ class Program
         
         int n = lista.Count;
 
-        for (int i = 0; i < n - 1; i++)
+        bool c = false;
+        for (int i = 0; i < n - 1 && !c; i++)
         {
             for (int j = 0; j < n - 1 - i; j++)
             {
@@ -127,6 +128,7 @@ class Program
                     CRobot temp = lista[j];
                     lista[j] = lista[j + 1];
                     lista[j+1] = temp;
+                    c = true;
                 }
             }
         }
